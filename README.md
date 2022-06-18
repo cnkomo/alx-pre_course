@@ -19,5 +19,4 @@ diff --git a/0x01-git/js/main.js b/0x01-git/js/main.js
 deleted file mode 100644                                                            
 index e69de29..0000000                                                              
                                                                                     
-commit 3121fa2b8e2247d18508e9226c7a73c0fef4f7b4 (origin/update_script, update_script
-)                                                  
+                                                
